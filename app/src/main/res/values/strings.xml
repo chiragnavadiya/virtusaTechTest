@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Coin Rates</string>
+    <string name="assets_id">ID:</string>
+    <string name="assets_name">Name:</string>
+    <string name="price_usd">Price In USD:</string>
+    <string name="start_date">Date:</string>
+    <string name="type">Currency Type:</string>
+    <string name="to">\u0020to\u0020</string>
+    <string name="at">\u0020at\u0020</string>
+    <string name="Loading">Loading</string>
+    <string name="to_other">TO ALL ASSETS</string>
+    <string name="no_internet">Please try again, No Internet Connection</string>
+    <string name="server_error">Server Error, Please try again</string>
+    <string name="time">Date/Time</string>
+    <string name="search">Search by name</string>
+    <string name="cryptocurrency">Crypto</string>
+    <string name="other">Other</string>
+    <string name="details_about_exchangerate">This current exchange rate list between requested asset and to other assets.</string>
+    <string name="asc">ASC</string>
+    <string name="desc">DESC</string>
+    <string name="close">Close</string>
+    <string name="Find">Search</string>
+    <string name="Sort_by_price">Price:</string>
+    <string name="filter_option">Sort By</string>
+    <string name="no_result_found">No result found</string>
+</resources>
