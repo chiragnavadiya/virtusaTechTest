@@ -11,10 +11,10 @@ class HeaderInterceptor : Interceptor {
 
     val UTF8 = Charset.forName(Key.STRING_CHARSET_NAME)
 
-    val X_TOKEN = "887C3C17-0B27-487A-B828-D6F2415D21E7"
+    val X_TOKEN = "2483BF86-6C03-4068-A56F-67BE249B7EA3"
 
     // for the reference if above key not work or expired
-    // val X_TOKEN = "2483BF86-6C03-4068-A56F-67BE249B7EA3"
+    // val X_TOKEN = "887C3C17-0B27-487A-B828-D6F2415D21E7"
 
     @Throws(IOException::class)
     override fun intercept(chain: Interceptor.Chain): Response? {
